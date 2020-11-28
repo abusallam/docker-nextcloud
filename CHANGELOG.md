@@ -1,5 +1,21 @@
 # Changelog
 
+## 20.0.2-RC1 / 19.0.5-RC1 / 18.0.11-RC1 (2020/11/19)
+
+* Nextcloud 18.0.11, 19.0.5, 20.0.2
+
+## 20.0.1-RC2 / 19.0.4-RC3 / 18.0.10-RC3 / 17.0.10-RC3 (2020/11/07)
+
+* Dedicated sidecar container for previews generator
+
+## 20.0.1-RC1 / 19.0.4-RC2 / 18.0.10-RC2 / 17.0.10-RC2 (2020/11/01)
+
+* Nextcloud 20.0.1
+* Handle pre-generation of previews through [Preview Generator](https://github.com/rullzer/previewgenerator) plugin
+* Update cron period example
+* Add env var to clear environment in FPM workers
+* Publish image to GHCR
+
 ## 20.0.0-RC1 / 19.0.4-RC1 / 18.0.10-RC1 / 17.0.10-RC1 (2020/10/08)
 
 * Nextcloud 17.0.10, 18.0.10, 19.0.4, 20.0.0
